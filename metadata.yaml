@@ -1,0 +1,33 @@
+_repo: Martva-I_52688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lassila, Maiju
+    aliases:
+    - Untola, Algoth
+    - Rantamala, Irmari
+    - Tietäväinen, Algoth
+    - Tietavainen, Algoth
+    - Vatanen, J. I.
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '3754'
+    url: http://www.gutenberg.org/2009/agents/3754
+    wikipedia:
+    - http://www.kirjasto.sci.fi/lassila.htm
+    - http://fi.wikipedia.org/wiki/Algot_Untola
+description: ''
+gutenberg_issued: '2016-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52688'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Martva I
+url: http://www.gutenberg.org/ebooks/52688
